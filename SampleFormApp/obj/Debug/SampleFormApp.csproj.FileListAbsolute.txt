@@ -1,0 +1,6 @@
+C:\CSharpFiles\SampleFormApp\SampleFormApp\bin\Debug\SampleFormApp.exe
+C:\CSharpFiles\SampleFormApp\SampleFormApp\bin\Debug\SampleFormApp.pdb
+C:\CSharpFiles\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.csprojAssemblyReference.cache
+C:\CSharpFiles\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.csproj.CoreCompileInputs.cache
+C:\CSharpFiles\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.exe
+C:\CSharpFiles\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.pdb
